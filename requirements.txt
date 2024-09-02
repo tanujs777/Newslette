@@ -1,8 +1,10 @@
 streamlit
-validators
-langchain_community
+requests
+beautifulsoup4
+langchain
 langchain_groq
 langchain_huggingface
-langchain
+langchain_community
 faiss-cpu
 python-dotenv
+validators
